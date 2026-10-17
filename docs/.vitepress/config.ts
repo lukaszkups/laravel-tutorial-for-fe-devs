@@ -68,12 +68,12 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/lukaszkups' },
+      { icon: 'github', link: 'https://github.com/lukaszkups/laravel-tutorial-for-fe-devs' },
     ],
 
     footer: {
       message: 'Continues after /lab/php-tutorial-for-fe-devs/',
-      copyright: 'Copyright © 2026-present Łukasz Kuś. All rights reserved.',
+      copyright: 'Copyright © 2026-present Łukasz Kupś. All rights reserved.',
     },
   },
 })
